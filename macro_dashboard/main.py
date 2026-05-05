@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from functools import lru_cache
 from typing import Optional
 
@@ -9,13 +11,16 @@ app = FastAPI(title="Macro Analysis Dashboard API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 DATA_DIR = Path("data_demo")
+
+# API Endpoints
+
 
 @lru_cache(maxsize=32)
 def get_dynamic_snapshot(as_of: str):
@@ -108,3 +113,12 @@ def get_series(series_id: str, as_of: Optional[str] = Query(None, description="Y
             return json.load(f)
             
     raise HTTPException(status_code=404, detail="Series not found")
+
+# Serve Next.js frontend
+frontend_dir = Path("frontend/out")
+if frontend_dir.exists():
+    app.mount("/", StaticFiles(directory="frontend/out", html=True), name="frontend")
+else:
+    @app.get("/")
+    def root():
+        return {"message": "Frontend not built. Run 'npm run build' inside the frontend directory."}
