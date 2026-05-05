@@ -1,0 +1,61 @@
+{
+  "bucket_reads": {},
+  "challenging_indicators": [],
+  "conviction": "Low",
+  "label_shift_triggers": [
+    "Inflation scare if core inflation, breakevens, oil, and wages accelerate while growth remains stable.",
+    "Growth scare if claims rise, PMIs fall, the curve bull-steepens, credit spreads widen, and equities weaken.",
+    "Stagflationary stall if growth weakens while oil/headline inflation and inflation expectations rise.",
+    "Policy-driven liquidity rally if real yields fall, financial conditions ease, credit spreads tighten, and risk assets rally."
+  ],
+  "plain_english_explanation": "The data are mixed: inflation or policy pressure remains relevant while growth momentum is no longer clearly accelerating.",
+  "regime_name": "Late-cycle reflationary slowdown",
+  "supporting_indicators": [],
+  "transition_probabilities": [
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Disinflationary soft landing"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Reflationary acceleration"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Late-cycle expansion"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Late-cycle reflationary slowdown"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Stagflationary stall"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Deflationary slowdown"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Policy-driven liquidity rally"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Growth scare"
+    },
+    {
+      "drivers": [],
+      "probability": 11.11111111111111,
+      "regime": "Inflation scare"
+    }
+  ]
+}

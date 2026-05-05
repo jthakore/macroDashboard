@@ -1,0 +1,176 @@
+[
+  {
+    "bucket": "Growth",
+    "series_id": "FRED:GDPC1",
+    "series_name": "Real GDP",
+    "source": "FRED/BEA"
+  },
+  {
+    "bucket": "Growth",
+    "series_id": "FRED:INDPRO",
+    "series_name": "Industrial Production",
+    "source": "FRED/Fed"
+  },
+  {
+    "bucket": "Growth",
+    "series_id": "FRED:RSAFS",
+    "series_name": "Retail Sales",
+    "source": "FRED/Census"
+  },
+  {
+    "bucket": "Growth",
+    "series_id": "FRED:UMCSENT",
+    "series_name": "Consumer Sentiment",
+    "source": "FRED/University of Michigan"
+  },
+  {
+    "bucket": "Inflation",
+    "series_id": "FRED:CPIAUCSL",
+    "series_name": "CPI",
+    "source": "FRED/BLS"
+  },
+  {
+    "bucket": "Inflation",
+    "series_id": "FRED:CPILFESL",
+    "series_name": "Core CPI",
+    "source": "FRED/BLS"
+  },
+  {
+    "bucket": "Inflation",
+    "series_id": "FRED:PCEPILFE",
+    "series_name": "Core PCE Price Index",
+    "source": "FRED/BEA"
+  },
+  {
+    "bucket": "Inflation",
+    "series_id": "FRED:T10YIE",
+    "series_name": "10Y Breakeven Inflation",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Labor",
+    "series_id": "FRED:PAYEMS",
+    "series_name": "Nonfarm Payrolls",
+    "source": "FRED/BLS"
+  },
+  {
+    "bucket": "Labor",
+    "series_id": "FRED:UNRATE",
+    "series_name": "Unemployment Rate",
+    "source": "FRED/BLS"
+  },
+  {
+    "bucket": "Labor",
+    "series_id": "FRED:ICSA",
+    "series_name": "Initial Claims",
+    "source": "FRED/DOL"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:EFFR",
+    "series_name": "Effective Fed Funds Rate",
+    "source": "FRED/Fed"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:DGS2",
+    "series_name": "2Y Treasury Yield",
+    "source": "FRED/Treasury"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:DGS10",
+    "series_name": "10Y Treasury Yield",
+    "source": "FRED/Treasury"
+  },
+  {
+    "bucket": "Liquidity",
+    "series_id": "FRED:WALCL",
+    "series_name": "Fed Balance Sheet Assets",
+    "source": "FRED/Fed"
+  },
+  {
+    "bucket": "Liquidity",
+    "series_id": "FRED:WRESBAL",
+    "series_name": "Bank Reserves",
+    "source": "FRED/Fed"
+  },
+  {
+    "bucket": "External / FX",
+    "series_id": "FRED:DTWEXBGS",
+    "series_name": "Broad Dollar Index",
+    "source": "FRED/Fed"
+  },
+  {
+    "bucket": "External / FX",
+    "series_id": "FRED:DCOILWTICO",
+    "series_name": "WTI Crude Oil",
+    "source": "FRED/EIA"
+  },
+  {
+    "bucket": "Credit",
+    "series_id": "FRED:BAMLC0A0CM",
+    "series_name": "Investment Grade OAS",
+    "source": "FRED/ICE"
+  },
+  {
+    "bucket": "Credit",
+    "series_id": "FRED:BAMLH0A0HYM2",
+    "series_name": "High Yield OAS",
+    "source": "FRED/ICE"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:TB3MS",
+    "series_name": "3-Month Treasury",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:VIXCLS",
+    "series_name": "VIX",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:USEPUINDXD",
+    "series_name": "Economic Policy Uncertainty (BBD)",
+    "source": "FRED/BBD"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:ACMTP10",
+    "series_name": "ACM 10-Year Term Premium",
+    "source": "FRED/NY_FED"
+  },
+  {
+    "bucket": "Credit",
+    "series_id": "FRED:DRTSCILM",
+    "series_name": "SLOOS Bank Tightening (Credit Impulse)",
+    "source": "FRED/FED"
+  },
+  {
+    "bucket": "Growth",
+    "series_id": "FRED:SAHMREALTIME",
+    "series_name": "Real-time Sahm Rule",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Labor",
+    "series_id": "FRED:TEMPHELPS",
+    "series_name": "Temporary Help Services",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Labor",
+    "series_id": "FRED:AWHNONPI",
+    "series_name": "Average Weekly Hours",
+    "source": "FRED"
+  },
+  {
+    "bucket": "Financial conditions",
+    "series_id": "FRED:HLW158",
+    "series_name": "Neutral Rate (R-Star)",
+    "source": "FRED/NY_FED"
+  }
+]

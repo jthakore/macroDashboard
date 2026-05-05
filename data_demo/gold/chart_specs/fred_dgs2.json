@@ -1,0 +1,14 @@
+{
+  "bucket": "Financial conditions",
+  "caption": "Shows market-implied policy, rate, and risk-appetite pressure.",
+  "chart_id": "fred_dgs2",
+  "latest_callout": true,
+  "regime_implication": "Tighter financial conditions challenge valuations and credit.",
+  "series": [
+    "FRED:DGS2"
+  ],
+  "title": "2Y Treasury Yield",
+  "trend_consistency": "Latest trend is consistent with the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}

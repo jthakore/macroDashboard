@@ -1,0 +1,1002 @@
+{
+  "bucket": "Growth",
+  "frequency": "monthly",
+  "metadata": {},
+  "observations": [
+    {
+      "date": "2016-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.777634702388756,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.1307997643188648,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.439897743305105,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.107759693982846,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.171599094378972,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.7254173630647616,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.531053158033492,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.644617203034054,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.6583076043836735,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.559272606864204,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.779337314757883,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.270133058956756,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.4743774222219503,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.7529283827642015,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.1240070104814914,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.338830947536465,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2173842706890223,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.062032742001322,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2397725042345307,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.6315333675843027,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5342666006887935,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.6214689373119149,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.44285830097985857,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.36289499926342095,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.5066775691771619,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.37406507241858256,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.0824673022823963,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.6045483459374246,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.1680690886803553,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.30787901581734034,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.3167578968082636,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.6217808096072559,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.49790037483293736,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.28784152599806245,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.21412521033693022,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.10568709759095318,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.36091734952549404,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.6852244444832285,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.6750350935107099,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.0084121114696307,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.9227290578019582,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.9224714020246841,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2143465778180107,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.8630711294706427,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.0701196138476823,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5657953160184197,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2980383641510662,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4323468113289435,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.8191119633994106,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.6342667516456215,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.705526168414856,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.35357948343087,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.75916643887085,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.9057238193235015,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.0333615719375233,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.8215727164668696,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.7968109216566486,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.5575000524638165,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.4816141440451274,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.122268110861879,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.930328346119145,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.7845398652659887,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0777111877393737,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.2525521048496366,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.172934065186437,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.2534536658367093,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.149734927390038,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.144442815968004,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.4407887820724596,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.206326457177867,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.1054976326699357,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.2487560275334393,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.3822847395974076,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.2337786786375684,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0245237506368237,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0196706001683653,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.058796112073807,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.181453108790629,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0817618690274626,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.1063272181586106,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.061406733798572,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0310151565235426,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.052882506130046,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.3215497269024414,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.090791628331742,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.0364245496980153,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.8857648466879895,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7945112382883157,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.8407731114993795,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.9879768571648975,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7053060901792891,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.6557158172697266,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5597530920855764,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.667688790939226,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.510803571442696,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5339620363770285,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.9037054794551476,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5715065710611424,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4994139592158469,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5258649140308065,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2855193898359023,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2168023070399514,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4509167951977144,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2809055011342831,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.449555493558002,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5366555961566006,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.567372422969542,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.211505939261435,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.3018280499986268,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.9622170502754874,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.9585306998577895,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.8869713905975612,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.8523264784460741,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.48547468055908793,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.19236938860802577,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.3851617296022021,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.32351207283455086,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.8305300254572229,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.3438730864170445,
+      "vintage_date": null
+    },
+    {
+      "date": "2026-01-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.40358952331745623,
+      "vintage_date": null
+    },
+    {
+      "date": "2026-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.6561902189234994,
+      "vintage_date": null
+    },
+    {
+      "date": "2026-03-01",
+      "is_latest": true,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.030137996433137193,
+      "vintage_date": null
+    }
+  ],
+  "seasonal_adjustment": null,
+  "series_id": "DERIVED:GROWTH_MINUS_INFLATION_MOMENTUM",
+  "series_name": "Growth minus inflation momentum",
+  "source": "Derived",
+  "transforms": {
+    "acceleration": "accelerating",
+    "percentile_10y": 0.925,
+    "three_month_change": 0.3137350899839073,
+    "twelve_month_change": 0.9320790538423502,
+    "z_score_5y": 2.2370153596831837
+  },
+  "unit": null,
+  "validation": {
+    "issues": [],
+    "latest_observation_date": "2026-03-01",
+    "missing_recent_values": 0,
+    "stale": false,
+    "status": "usable"
+  }
+}

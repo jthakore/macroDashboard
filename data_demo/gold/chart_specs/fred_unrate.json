@@ -1,0 +1,14 @@
+{
+  "bucket": "Labor",
+  "caption": "Shows whether labor conditions are cooling gradually or deteriorating abruptly.",
+  "chart_id": "fred_unrate",
+  "latest_callout": true,
+  "regime_implication": "Use with related bucket indicators to confirm or challenge the dominant regime.",
+  "series": [
+    "FRED:UNRATE"
+  ],
+  "title": "Unemployment Rate",
+  "trend_consistency": "Latest trend diverges from the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}

@@ -1,0 +1,14 @@
+{
+  "bucket": "Growth",
+  "caption": "Shows real-activity momentum and whether hard data confirms or challenges the expansion.",
+  "chart_id": "fred_rsafs",
+  "latest_callout": true,
+  "regime_implication": "Accelerating growth supports expansion or reflation.",
+  "series": [
+    "FRED:RSAFS"
+  ],
+  "title": "Retail Sales",
+  "trend_consistency": "Latest trend is consistent with the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}

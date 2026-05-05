@@ -1,0 +1,14 @@
+{
+  "bucket": "Inflation",
+  "caption": "Shows underlying price pressure and whether disinflation is durable.",
+  "chart_id": "fred_pcepilfe",
+  "latest_callout": true,
+  "regime_implication": "Accelerating inflation supports inflation scare or stagflation risk.",
+  "series": [
+    "FRED:PCEPILFE"
+  ],
+  "title": "Core PCE Price Index",
+  "trend_consistency": "Latest trend is consistent with the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}

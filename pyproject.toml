@@ -1,0 +1,17 @@
+[project]
+name = "macro-dashboard"
+version = "0.1.0"
+description = "Mixed-source data architecture for a macro regime dashboard"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pandas",
+    "duckdb",
+    "yfinance",
+    "requests"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

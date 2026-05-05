@@ -1,0 +1,389 @@
+{
+  "bucket": "Credit",
+  "frequency": "quarterly",
+  "metadata": {
+    "api_url": "https://api.stlouisfed.org/fred/series/observations?series_id=DRTSCILM&api_key=ef30cc3d7b6850053c9d8bda87ba2c7e&file_type=json&observation_start=2015-01-01",
+    "raw_source": "FRED series observations"
+  },
+  "observations": [
+    {
+      "date": "2015-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -5.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2015-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -5.3,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2015-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -7.0,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2015-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 7.4,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2016-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 8.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2016-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 11.6,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2016-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 8.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2016-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 1.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2017-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 1.4,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2017-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -2.8,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2017-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -3.9,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2017-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -8.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2018-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -10.0,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2018-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -11.3,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2018-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -15.9,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2018-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -15.9,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2019-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 2.8,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2019-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -4.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2019-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -2.8,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2019-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 5.4,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2020-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 0.0,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2020-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 41.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2020-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 71.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2020-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 37.7,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2021-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 5.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2021-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -15.1,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2021-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -32.4,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2021-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -18.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2022-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -14.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2022-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": -1.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2022-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 24.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2022-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 39.1,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2023-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 44.8,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2023-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 46.0,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2023-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 50.8,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2023-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 33.9,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2024-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 14.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2024-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 15.6,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2024-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 7.9,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2024-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 0.0,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2025-01-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 6.2,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2025-04-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 18.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2025-07-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 9.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2025-10-01",
+      "is_latest": false,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 6.5,
+      "vintage_date": "2026-04-20"
+    },
+    {
+      "date": "2026-01-01",
+      "is_latest": true,
+      "realtime_end": "2026-04-20",
+      "realtime_start": "2026-04-20",
+      "value": 5.3,
+      "vintage_date": "2026-04-20"
+    }
+  ],
+  "seasonal_adjustment": null,
+  "series_id": "FRED:DRTSCILM",
+  "series_name": "SLOOS Bank Tightening (Credit Impulse)",
+  "source": "FRED",
+  "transforms": {
+    "acceleration": "accelerating",
+    "percentile_10y": 0.5,
+    "three_month_change": -1.2000000000000002,
+    "twelve_month_change": -0.9000000000000004,
+    "z_score_5y": -0.3030078934930455
+  },
+  "unit": null,
+  "validation": {
+    "issues": [],
+    "latest_observation_date": "2026-01-01",
+    "missing_recent_values": 0,
+    "stale": false,
+    "status": "usable"
+  }
+}

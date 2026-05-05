@@ -1,0 +1,172 @@
+{
+  "bucket_reads": {
+    "Credit": {
+      "conviction": "High",
+      "conviction_score": 1.0,
+      "direction": "Deteriorating",
+      "key_indicators": [
+        "Investment Grade OAS",
+        "High Yield OAS",
+        "SLOOS Bank Tightening (Credit Impulse)",
+        "High yield minus investment grade OAS"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Credit indicators are deteriorating with high conviction."
+    },
+    "External / FX": {
+      "conviction": "High",
+      "conviction_score": 1.0,
+      "direction": "Accelerating",
+      "key_indicators": [
+        "WTI Crude Oil",
+        "Broad Dollar Index"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "External / FX indicators are accelerating with high conviction."
+    },
+    "Financial conditions": {
+      "conviction": "Medium",
+      "conviction_score": 0.5,
+      "direction": "Tightening",
+      "key_indicators": [
+        "10Y Treasury Yield",
+        "2Y Treasury Yield",
+        "Effective Fed Funds Rate",
+        "3-Month Treasury",
+        "Economic Policy Uncertainty (BBD)"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Financial conditions indicators are tightening with medium conviction."
+    },
+    "Growth": {
+      "conviction": "High",
+      "conviction_score": 0.8333333333333334,
+      "direction": "Accelerating",
+      "key_indicators": [
+        "Real GDP",
+        "Industrial Production",
+        "Retail Sales",
+        "Real-time Sahm Rule",
+        "Consumer Sentiment"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Growth indicators are accelerating with high conviction."
+    },
+    "Inflation": {
+      "conviction": "High",
+      "conviction_score": 1.0,
+      "direction": "Accelerating",
+      "key_indicators": [
+        "CPI",
+        "Core CPI",
+        "Core PCE Price Index",
+        "10Y Breakeven Inflation",
+        "Headline CPI minus Core CPI"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Inflation indicators are accelerating with high conviction."
+    },
+    "Labor": {
+      "conviction": "Medium",
+      "conviction_score": 0.5,
+      "direction": "Accelerating",
+      "key_indicators": [
+        "Initial Claims",
+        "Nonfarm Payrolls",
+        "Temporary Help Services",
+        "Unemployment Rate"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Labor indicators are accelerating with medium conviction."
+    },
+    "Liquidity": {
+      "conviction": "Medium",
+      "conviction_score": 0.5,
+      "direction": "Accelerating",
+      "key_indicators": [
+        "Fed Balance Sheet Assets",
+        "Bank Reserves"
+      ],
+      "supports_or_challenges_regime": "Used in aggregate regime score",
+      "what_it_says": "Liquidity indicators are accelerating with medium conviction."
+    }
+  },
+  "challenging_indicators": [
+    "Effective Fed Funds Rate: muted/ambiguous z=0.10",
+    "Real-time Sahm Rule: muted/ambiguous z=0.10",
+    "3-Month Treasury: muted/ambiguous z=0.07"
+  ],
+  "conviction": "High",
+  "label_shift_triggers": [
+    "Inflation scare if core inflation, breakevens, oil, and wages accelerate while growth remains stable.",
+    "Growth scare if claims rise, PMIs fall, the curve bull-steepens, credit spreads widen, and equities weaken.",
+    "Stagflationary stall if growth weakens while oil/headline inflation and inflation expectations rise.",
+    "Policy-driven liquidity rally if real yields fall, financial conditions ease, credit spreads tighten, and risk assets rally."
+  ],
+  "plain_english_explanation": "Growth and inflation are both strengthening, usually favoring cyclicals and real assets while pressuring duration.",
+  "regime_name": "Reflationary acceleration",
+  "supporting_indicators": [
+    "Investment Grade OAS: z=-0.82",
+    "High Yield OAS: z=-0.89",
+    "CPI: z=1.55",
+    "Core CPI: z=1.48",
+    "WTI Crude Oil: z=1.71",
+    "10Y Treasury Yield: z=0.82",
+    "Real GDP: z=1.56",
+    "Initial Claims: z=-0.94"
+  ],
+  "transition_probabilities": [
+    {
+      "drivers": [
+        "Credit Impulse: Banks are actively tightening lending standards (Net 5.3% tightening).",
+        "Complacency Gap: High policy uncertainty (BBD) vs low market volatility (VIX)"
+      ],
+      "probability": 27.567195037904895,
+      "regime": "Growth scare"
+    },
+    {
+      "drivers": [
+        "Credit Impulse: Banks are actively tightening lending standards (Net 5.3% tightening)."
+      ],
+      "probability": 20.67539627842867,
+      "regime": "Deflationary slowdown"
+    },
+    {
+      "drivers": [
+        "Complacency Gap: High policy uncertainty (BBD) vs low market volatility (VIX)"
+      ],
+      "probability": 17.22949689869056,
+      "regime": "Inflation scare"
+    },
+    {
+      "drivers": [],
+      "probability": 6.891798759476224,
+      "regime": "Reflationary acceleration"
+    },
+    {
+      "drivers": [],
+      "probability": 6.891798759476224,
+      "regime": "Late-cycle expansion"
+    },
+    {
+      "drivers": [],
+      "probability": 6.891798759476224,
+      "regime": "Late-cycle reflationary slowdown"
+    },
+    {
+      "drivers": [],
+      "probability": 6.891798759476224,
+      "regime": "Stagflationary stall"
+    },
+    {
+      "drivers": [],
+      "probability": 6.891798759476224,
+      "regime": "Policy-driven liquidity rally"
+    },
+    {
+      "drivers": [],
+      "probability": 0.06891798759476224,
+      "regime": "Disinflationary soft landing"
+    }
+  ]
+}

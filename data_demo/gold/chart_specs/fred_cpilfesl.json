@@ -1,0 +1,14 @@
+{
+  "bucket": "Inflation",
+  "caption": "Shows underlying price pressure and whether disinflation is durable.",
+  "chart_id": "fred_cpilfesl",
+  "latest_callout": true,
+  "regime_implication": "Accelerating inflation supports inflation scare or stagflation risk.",
+  "series": [
+    "FRED:CPILFESL"
+  ],
+  "title": "Core CPI",
+  "trend_consistency": "Latest trend is consistent with the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}

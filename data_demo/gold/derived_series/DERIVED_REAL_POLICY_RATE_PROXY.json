@@ -1,0 +1,620 @@
+{
+  "bucket": "Financial conditions",
+  "frequency": "quarterly",
+  "metadata": {},
+  "observations": [
+    {
+      "date": "2016-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7750000000000068,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7979999999999978,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.8329999999999904,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.86200000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.845000000000009,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.761000000000011,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.6269999999999964,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.6709999999999934,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4419999999999904,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.3329999999999904,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.3590000000000009,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4040000000000106,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4749999999999903,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5649999999999937,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4850000000000056,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4619999999999953,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2049999999999983,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.3269999999999942,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.463,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5359999999999965,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.700000000000012,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7750000000000055,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5459999999999983,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7649999999999901,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.8790000000000036,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.149000000000009,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.4419999999999975,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.061000000000006,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.245999999999995,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.328999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.501,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.757000000000003,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.758999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.9510000000000005,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.50000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.57500000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.83100000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.394999999999989,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.436000000000008,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.327999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.756000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.174999999999998,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.481000000000009,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.068000000000007,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.416999999999996,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.171000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.125,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.184999999999993,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -5.4579999999999895,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.915000000000003,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.500999999999994,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.560999999999993,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.4909999999999997,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.0450000000000017,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.914999999999992,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.921999999999997,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5249999999999915,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.7510000000000048,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.4979999999999905,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -2.2139999999999986,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.26100000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.2210000000000036,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.5150000000000006,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.9309999999999974,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -3.9819999999999993,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.063000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.748999999999995,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -4.822000000000003,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.813000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.731999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.056000000000012,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.122,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -6.945999999999989,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-12-01",
+      "is_latest": true,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -7.316999999999995,
+      "vintage_date": null
+    }
+  ],
+  "seasonal_adjustment": null,
+  "series_id": "DERIVED:REAL_POLICY_RATE_PROXY",
+  "series_name": "Real policy rate proxy",
+  "source": "Derived",
+  "transforms": {
+    "acceleration": "decelerating",
+    "percentile_10y": 0.05,
+    "three_month_change": -0.37100000000000577,
+    "twelve_month_change": -0.5849999999999955,
+    "z_score_5y": -1.5107791027630815
+  },
+  "unit": null,
+  "validation": {
+    "issues": [
+      "Latest observation is older than expected for quarterly data"
+    ],
+    "latest_observation_date": "2025-12-01",
+    "missing_recent_values": 0,
+    "stale": true,
+    "status": "stale"
+  }
+}

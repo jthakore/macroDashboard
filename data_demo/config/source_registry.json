@@ -1,0 +1,178 @@
+[
+  {
+    "auth": "API key",
+    "base_url": "https://api.stlouisfed.org/fred",
+    "dashboard_use": "Macro, rates, spreads",
+    "format": "JSON/CSV/XLSX/XML",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "FRED",
+    "type": "API",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "API key",
+    "base_url": "https://apps.bea.gov/api/data",
+    "dashboard_use": "GDP, PCE, profits",
+    "format": "JSON/CSV/XLSX",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "BEA",
+    "type": "API/download",
+    "update_frequency": "Monthly/quarterly"
+  },
+  {
+    "auth": "Optional API key",
+    "base_url": "https://api.bls.gov/publicAPI/v2/timeseries/data",
+    "dashboard_use": "CPI, labor, wages",
+    "format": "JSON/CSV",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "BLS",
+    "type": "API/download",
+    "update_frequency": "Monthly/quarterly"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service",
+    "dashboard_use": "Fiscal, debt, Treasury data",
+    "format": "JSON/CSV/XML",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "Treasury FiscalData",
+    "type": "API",
+    "update_frequency": "Daily/monthly"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://www.federalreserve.gov/datadownload",
+    "dashboard_use": "Fed releases",
+    "format": "CSV/XML/SDMX",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "Fed DDP",
+    "type": "Download/API-style",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "Key recommended",
+    "base_url": "https://api.census.gov/data/timeseries",
+    "dashboard_use": "Retail, housing, trade",
+    "format": "JSON",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "Census",
+    "type": "API",
+    "update_frequency": "Monthly/quarterly"
+  },
+  {
+    "auth": "No key; user-agent required",
+    "base_url": "https://data.sec.gov",
+    "dashboard_use": "Filings/fundamentals",
+    "format": "JSON/ZIP",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "SEC EDGAR",
+    "type": "API/bulk",
+    "update_frequency": "Real time/nightly"
+  },
+  {
+    "auth": "No key/account may be needed for explorer",
+    "base_url": "https://data.imf.org",
+    "dashboard_use": "Global macro",
+    "format": "JSON/CSV/SDMX",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "IMF",
+    "type": "SDMX API",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://api.worldbank.org/v2",
+    "dashboard_use": "Structural indicators",
+    "format": "JSON/XML",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "World Bank",
+    "type": "API",
+    "update_frequency": "Annual/varies"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://sdmx.oecd.org/public/rest",
+    "dashboard_use": "Global DM comparison",
+    "format": "JSON/CSV/XML",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "OECD",
+    "type": "SDMX API",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://data-api.ecb.europa.eu/service",
+    "dashboard_use": "Eurozone expansion",
+    "format": "JSON/CSV/XML",
+    "notes": null,
+    "reliability_tier": "Primary",
+    "source": "ECB",
+    "type": "SDMX API",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "No key",
+    "base_url": "https://api.gdeltproject.org/api/v2",
+    "dashboard_use": "News volume/tone",
+    "format": "JSON/CSV/RSS",
+    "notes": null,
+    "reliability_tier": "Secondary",
+    "source": "GDELT",
+    "type": "API/bulk",
+    "update_frequency": "Near real time"
+  },
+  {
+    "auth": "API key",
+    "base_url": "https://newsapi.org/v2",
+    "dashboard_use": "Article discovery",
+    "format": "JSON",
+    "notes": null,
+    "reliability_tier": "Secondary",
+    "source": "NewsAPI",
+    "type": "API",
+    "update_frequency": "Near real time"
+  },
+  {
+    "auth": "API key",
+    "base_url": "https://www.alphavantage.co/query",
+    "dashboard_use": "Prototype market/economic data",
+    "format": "JSON/CSV",
+    "notes": null,
+    "reliability_tier": "Market",
+    "source": "Alpha Vantage",
+    "type": "API",
+    "update_frequency": "Daily/intraday"
+  },
+  {
+    "auth": "API key/subscription",
+    "base_url": "https://data.nasdaq.com/api/v3",
+    "dashboard_use": "Prices/alt data",
+    "format": "JSON/CSV/XML",
+    "notes": null,
+    "reliability_tier": "Market",
+    "source": "Nasdaq Data Link",
+    "type": "API",
+    "update_frequency": "Varies"
+  },
+  {
+    "auth": "API key/subscription",
+    "base_url": "https://api.polygon.io",
+    "dashboard_use": "Prices/events",
+    "format": "JSON/CSV",
+    "notes": null,
+    "reliability_tier": "Market",
+    "source": "Polygon",
+    "type": "API/WebSocket",
+    "update_frequency": "Real time/historical"
+  }
+]

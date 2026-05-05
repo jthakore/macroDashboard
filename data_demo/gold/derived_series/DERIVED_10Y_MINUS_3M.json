@@ -1,0 +1,722 @@
+{
+  "bucket": "Financial conditions",
+  "frequency": "quarterly",
+  "metadata": {},
+  "observations": [
+    {
+      "date": "2015-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.85,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 2.1,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 2.17,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 2.4000000000000004,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 2.15,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 2.03,
+      "vintage_date": null
+    },
+    {
+      "date": "2015-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.92,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.66,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.54,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.56,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.58,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.16,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.21,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.28,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.3800000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2016-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.9400000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.96,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.72,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.44,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.23,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.2499999999999998,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.1300000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.1400000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2017-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.05,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.2099999999999997,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.11,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.11,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.9900000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.9700000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.8399999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2018-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.81,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.31000000000000005,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.3599999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.11000000000000032,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.16999999999999993,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.07000000000000028,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.050000000000000044,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.0,
+      "vintage_date": null
+    },
+    {
+      "date": "2019-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.18999999999999995,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.48,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.51,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.5,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.5599999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.5700000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.5800000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2020-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.8300000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.05,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.42,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.67,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.58,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.43,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.27,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.43,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.53,
+      "vintage_date": null
+    },
+    {
+      "date": "2021-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.3699999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.48,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.28,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.6300000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 1.45,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.6499999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.029999999999999805,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.1299999999999999,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.08000000000000007,
+      "vintage_date": null
+    },
+    {
+      "date": "2022-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.7200000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.2600000000000002,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.6800000000000006,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5499999999999998,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-06-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.5500000000000003,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.25,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-09-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.1400000000000006,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.5,
+      "vintage_date": null
+    },
+    {
+      "date": "2023-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.0200000000000005,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-02-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.37,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-03-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.0499999999999998,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.9100000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.6200000000000001,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.7199999999999998,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -1.0599999999999996,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.7699999999999996,
+      "vintage_date": null
+    },
+    {
+      "date": "2024-11-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.04999999999999982,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-04-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": -0.040000000000000036,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-05-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.0,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-07-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.009999999999999787,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-08-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.11000000000000032,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-10-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.30000000000000027,
+      "vintage_date": null
+    },
+    {
+      "date": "2025-12-01",
+      "is_latest": false,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.5,
+      "vintage_date": null
+    },
+    {
+      "date": "2026-04-01",
+      "is_latest": true,
+      "realtime_end": null,
+      "realtime_start": null,
+      "value": 0.7200000000000002,
+      "vintage_date": null
+    }
+  ],
+  "seasonal_adjustment": null,
+  "series_id": "DERIVED:10Y_MINUS_3M",
+  "series_name": "10Y minus 3M yield curve",
+  "source": "Derived",
+  "transforms": {
+    "acceleration": "accelerating",
+    "percentile_10y": 0.7,
+    "three_month_change": 0.2200000000000002,
+    "twelve_month_change": 0.7100000000000004,
+    "z_score_5y": 1.9098073532737867
+  },
+  "unit": null,
+  "validation": {
+    "issues": [],
+    "latest_observation_date": "2026-04-01",
+    "missing_recent_values": 0,
+    "stale": false,
+    "status": "usable"
+  }
+}

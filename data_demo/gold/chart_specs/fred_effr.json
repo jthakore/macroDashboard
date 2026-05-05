@@ -1,0 +1,14 @@
+{
+  "bucket": "Financial conditions",
+  "caption": "Shows market-implied policy, rate, and risk-appetite pressure.",
+  "chart_id": "fred_effr",
+  "latest_callout": true,
+  "regime_implication": "Tighter financial conditions challenge valuations and credit.",
+  "series": [
+    "FRED:EFFR"
+  ],
+  "title": "Effective Fed Funds Rate",
+  "trend_consistency": "Latest trend is stable relative to the prior trend",
+  "x_axis": "date",
+  "y_axis": "indicator value"
+}
